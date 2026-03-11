@@ -1,6 +1,6 @@
 # explainable-AI
 
-
+**Goal**: Demonstrate Chain of Thought, Model Weights, and Attention Visualization for different LLMs
 
 Input Tokens
 
