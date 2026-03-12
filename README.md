@@ -32,3 +32,7 @@ Next Token Prediction
 | **Llama-3.2-3B** | 3B | Your approved model, M3-friendly | Local M3 |
 | **Mistral-7B** | 7B | Larger comparison | Colab (or M3 if 16GB+ RAM) |
 | **DeepSeek-R1** | 671B | Reasoning specialist | HF Inference API only |
+
+
+## License
+This project is open-source under the MIT License
